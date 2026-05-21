@@ -58,7 +58,7 @@
 
 | Service       | Name                                      | Notes                        |
 |---------------|-------------------------------------------|------------------------------|
-| `wuauserv`    | Windows Update                            | Core — always managed        |
+| `wuauserv`    | Windows Update                            | Core - always managed        |
 | `bits`        | Background Intelligent Transfer Service   | Managed                      |
 | `UsoSvc`      | Update Orchestrator Service (Win10+)      | Managed if present           |
 | `WaaSMedicSvc`| Windows Update Medic Service (Win10+)     | Best-effort (may be protected)|
