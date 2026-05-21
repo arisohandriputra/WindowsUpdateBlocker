@@ -1,6 +1,7 @@
 # Windows Update Blocker
 <img width="356" height="328" alt="image" src="https://github.com/user-attachments/assets/28f9aafa-89f7-4c5d-84f4-a58f186d65f4" />
 <img width="356" height="328" alt="image" src="https://github.com/user-attachments/assets/0c7dc767-974c-4f66-b9fc-d78306bd7781" />
+
 **Author:** Ari Sohandri Putra  
 **Version:** 2.0  
 **Build:** Visual Studio 2010 C++
